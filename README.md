@@ -72,3 +72,8 @@ MIT License
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
 <!-- Trigger deploy: Mon Aug 17 01:48:39 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://natiq-maslul.vercel.app](https://natiq-maslul.vercel.app)
+- **وضعیت:** ✅ فعال
